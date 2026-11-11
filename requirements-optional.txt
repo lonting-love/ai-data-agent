@@ -1,0 +1,6 @@
+# 可选：启用向量检索（Chroma + BGE 中文嵌入）。
+# 不安装时 schema_store 自动降级为词法检索，功能不受影响。
+langchain-chroma>=0.2
+langchain-huggingface>=0.1
+chromadb>=0.5
+sentence-transformers>=3.0

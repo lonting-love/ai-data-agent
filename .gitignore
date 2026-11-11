@@ -1,0 +1,17 @@
+.env
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.pytest_cache/
+chroma_db/
+chart_*.html
+charts/*.html
+charts/plotly.min.js
+logs/*.jsonl
+eval/reports/

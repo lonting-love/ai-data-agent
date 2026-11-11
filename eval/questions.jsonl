@@ -1,0 +1,14 @@
+{"id": "q01", "question": "一共有多少客户？", "expect_any": ["客户", "customers"], "needs_chart": false}
+{"id": "q02", "question": "按城市统计客户数量", "expect_any": ["城市", "数量"], "needs_chart": false}
+{"id": "q03", "question": "各类别商品的平均价格是多少？", "expect_any": ["类别", "价格"], "needs_chart": false}
+{"id": "q04", "question": "最近30天的订单总数是多少？", "expect_any": ["订单", "总数"], "needs_chart": false}
+{"id": "q05", "question": "订单总金额最高的前5个客户是谁？", "expect_any": ["客户", "金额"], "needs_chart": false}
+{"id": "q06", "question": "各支付方式的支付金额占比", "expect_any": ["支付", "金额"], "needs_chart": false}
+{"id": "q07", "question": "库存最少的5个商品是什么？", "expect_any": ["库存", "商品"], "needs_chart": false}
+{"id": "q08", "question": "供应商评分排名前3的有哪些？", "expect_any": ["供应商", "评分"], "needs_chart": false}
+{"id": "q09", "question": "各部门的平均工资是多少？", "expect_any": ["部门", "工资"], "needs_chart": false}
+{"id": "q10", "question": "每门课程的平均成绩是多少？", "expect_any": ["课程", "成绩"], "needs_chart": false}
+{"id": "q11", "question": "各城市天气的平均温度", "expect_any": ["城市", "温度"], "needs_chart": false}
+{"id": "q12", "question": "用折线图展示每月的销售额趋势", "expect_any": ["销售", "营收"], "needs_chart": true}
+{"id": "q13", "question": "目前还有多少本书没有归还？", "expect_any": ["图书", "归还", "借出", "未还"], "needs_chart": false}
+{"id": "q14", "question": "按星级统计酒店平均每晚价格", "expect_any": ["星级", "价格"], "needs_chart": false}
